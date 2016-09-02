@@ -1,6 +1,47 @@
 # Trilha JavaScript | Opensanca Developer
+![eflyer](https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/d/f/c/e/600_452937294.jpeg)
+
+### Ementa:
+ JavaScript Básico ECMA 6 - DOM, BOM e Eventos 
+  (Renan Johannsen) - 8h
+
+  JavaScript  - Orientação á Objetos  
+  (Renan Johannsen) - 12h
+
+  Node + Express 
+(Renan Johannsen) - 9h
+
+MongoDB 
+(Renan Johannsen) - 4h
+
+Angular > v1.5 
+(Renan Johannsen) -16h
+
+Ember  
+(Alex Ferreira) - 8h
+
+React + Flux 
+(Guilherme Diego & Vinicius Lemes) - 8h
+
+Ionic 
+(Fabian Cabau) - 8h
+
+Carga Horária Total:  ~ 80 h
 
 ### Agenda:
+![agenda](http://photos2.meetupstatic.com/photos/event/4/1/c/6/600_453616838.jpeg)
+
+
+
+### Referencia bibliográfica/video-aula:
+- [Exploring ES6 - Upgrade to the next version of JavaScript - ebook](http://exploringjs.com/es6/)
+- [JavaScript Furtivo - Eric Douglas | ebook](https://leanpub.com/javascriptfurtivo)
+- [Eloquent JavaScript - Marijin Haverbeke | ebook] (http://braziljs.github.io/eloquente-javascript/)
+- [Learning JavaScript Design Patterns - Addy Osmani |ebook](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Série You Don't Know JavaScript - Kyle Simpson | ebook](https://github.com/getify/You-Dont-Know-JS)
+- [Programming JavaScript Applications - Eric Elliot | ebook](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+- [Aprendendo JavaScript - Rodrigo Branas | videoaula](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [ECMAScript 2015 - videoaula](https://www.youtube.com/watch?v=vcoMWWVZS7c&list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2)
 
 ##### Módulo JavaScript Básico e Intermediário
 
