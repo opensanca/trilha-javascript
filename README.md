@@ -1,32 +1,25 @@
+![eflyer](https://www.stimulsoft.com/images/products/reports-js/js.png)
 # Trilha JavaScript | Opensanca Developer
-![eflyer](https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/d/f/c/e/600_452937294.jpeg)
+
 
 ### Ementa:
- JavaScript Básico ECMA 6 - DOM, BOM e Eventos 
-  (Renan Johannsen) - 8h
+ JavaScript Básico ECMA 6 - DOM, BOM e Eventos |  (Renan Johannsen) - 8h
 
-  JavaScript  - Orientação á Objetos  
-  (Renan Johannsen) - 12h
+  JavaScript  - Orientação á Objetos | (Renan Johannsen) - 12h
 
-  Node + Express 
-(Renan Johannsen) - 9h
+  Node + Express | (Renan Johannsen) - 9h
 
-MongoDB 
-(Renan Johannsen) - 4h
+  MongoDB |  (Renan Johannsen) - 4h
 
-Angular > v1.5 
-(Renan Johannsen) -16h
+  Angular > v1.5 | (Renan Johannsen) -16h
 
-Ember  
-(Alex Ferreira) - 8h
+  Ember  | (Alex Ferreira) - 8h
 
-React + Flux 
-(Guilherme Diego & Vinicius Lemes) - 8h
+  React + Flux | (Guilherme Diego & Vinicius Lemes) - 8h
 
-Ionic 
-(Fabian Cabau) - 8h
+  Ionic | (Fabian Cabau) - 8h
 
-Carga Horária Total:  ~ 80 h
+  *Carga Horária:*  ~ 80 h
 
 ### Agenda:
 ![agenda](http://photos2.meetupstatic.com/photos/event/4/1/c/6/600_453616838.jpeg)
