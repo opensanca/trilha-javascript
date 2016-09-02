@@ -25,6 +25,7 @@ Para aproveitar todo o potencial deste curso é preciso saber programar em qualq
 - Ember  | (Alex Ferreira) - 8h
 - React + Flux | (Guilherme Diego & Vinicius Lemes) - 8h
 - Ionic | (Fabian Cabau) - 8h
+- Testes Unitários | (William Bruno) - 8h
 
 ### Carga horária total:
 Aproximadamente 80hrs (26 aulas de 2 horas e 40 minutos)
@@ -60,7 +61,7 @@ Recomendamos que adote um editor de texto,para facilitar a escrita de seu códig
 - [Programming JavaScript Applications - Eric Elliot | ebook](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 - [Aprendendo JavaScript - Rodrigo Branas | videoaula](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
 - [ECMAScript 2015 - videoaula](https://www.youtube.com/watch?v=vcoMWWVZS7c&list=PLDm7BSK-M5Yk30T65F5yeuCcStOQBPKq2)
-- [Aprender Git/Github](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+- [Aprender Git/Github](https://github.com/opensanca/hello-git)
 
 
 
