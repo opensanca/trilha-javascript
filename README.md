@@ -12,6 +12,7 @@ Essa trilha visa oferecer ao participante conhecimentos que irão do básico ao 
 ### Público-alvo:
 Programadores iniciantes de JavaScript que saibam programar (lógica de programação).
 
+
 ### Pré-requisitos
 Para aproveitar todo o potencial deste curso é preciso saber programar em qualquer linguagem como C, Java, PHP  e etc, no minimo saber ter lógica de programação, caso não esteja muito familiarizado com lógica poderá pegar no nosso guia de Referencias Bibliográficas material que lhe auxilie nesse processo, durante a trilha estaremos dissecando a linguagem assim como seus frameworks.
 
@@ -42,6 +43,7 @@ Recomendamos que adote um editor de texto,para facilitar a escrita de seu códig
 - [Brackets](http://brackets.io/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 - [VIM](http://www.vim.org/)
+
 
 
 ### Agenda:
