@@ -67,4 +67,4 @@ Recomendamos que adote um editor de texto,para facilitar a escrita de seu códig
 
 ### License:
 
-[MIT | Creative Commons Attribution-NonCommercial-ShareAlike 4.0] (https://github.com/opensanca/trilha-javascript/blob/master/LICENSE.md) Opensanca 2016
+[MIT | Creative Commons Attribution-NonCommercial-ShareAlike 4.0] (https://github.com/opensanca/trilha-javascript/blob/master/LICENSE.md) [Opensanca 2016
