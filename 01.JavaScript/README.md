@@ -1,3 +1,5 @@
+![](http://www.e-learningcenter.com/_ctrl/wp-content/uploads/JavaScript-Fundamentals.png)
+
 ### Ementa | Fundamentos JavaScript (Básico & Intermediário)
 
 ### Objetivo:
