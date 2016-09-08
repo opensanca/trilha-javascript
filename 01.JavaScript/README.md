@@ -1,5 +1,13 @@
-# Módulo JavaScript Fundamentos (Básico & Intermediário)
-#### Monitor: Renan Johannsen
+### Ementa | Fundamentos JavaScript (Básico & Intermediário)
+
+### Objetivo:
+ Apresentar a linguagem JavaScript e suas ferramentas em oito cursos que ensinam desde a sintaxe básica da linguagem até orientação a objetos na prática.
+
+### Público-alvo:
+Programadores iniciantes de JavaScript que saibam programar (lógica de programação).
+> Monitor: Renan Johannsen | 
+> Carga Horária: 20h
+
 - Introdução;
 - Strict Mode;
 - Variáveis;
@@ -18,7 +26,7 @@
 
 ##### Módulo JavaScript Básico e Intermediário
 
-- [ ] Aula 1 - Introdução, Strict Mode, Variáveis, Hoisting e Tipos de dados;
+- [X] [Aula 1 - Introdução, Strict Mode, Variáveis, Hoisting e Tipos de dados](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/Aula%2001%20-%20Introdu%C3%A7%C3%A3o%2C%20Strict%20Mode%2C%20Vari%C3%A1veis%20e%20Hoisting.md);
 - [ ] Aula 2 - Operadores, Estruturas de controle;
 - [ ] Aula 3 - Funções e Closure;
 - [ ] Aula 4 - Callback e Prototype;
