@@ -1,14 +1,15 @@
 ![](http://www.e-learningcenter.com/_ctrl/wp-content/uploads/JavaScript-Fundamentals.png)
 
 ### Ementa | Fundamentos JavaScript (Básico & Intermediário)
+> Monitor: Renan Johannsen | 
+> Carga Horária: 20h
 
 ### Objetivo:
  Apresentar a linguagem JavaScript e suas ferramentas em oito cursos que ensinam desde a sintaxe básica da linguagem até orientação a objetos na prática.
 
 ### Público-alvo:
 Programadores iniciantes de JavaScript que saibam programar (lógica de programação).
-> Monitor: Renan Johannsen | 
-> Carga Horária: 20h
+
 
 - Introdução;
 - Strict Mode;
