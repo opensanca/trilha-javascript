@@ -1,7 +1,8 @@
-# Declaração de variáveis
+# Introdução
 
 JavaScript é uma linguagem case sensitive e fracamente tipada, ou seja, não é necessário especificar explicitamente o tipo de uma variável em sua declaração. Entretanto, um ponto importante que deve ser frisado é que JavaScript possue tipos que são definidos e convertidos durante da execução dos scripts.
 
+### Declaração de variáveis
 Para a declaração de variáveis é necessário utilizar as palavras chaves var, let ou const onde as mesmas delimitarão o escopo (que entenderemos adiante) e o comportamento da variável.
 
 Exemplo:
@@ -20,7 +21,7 @@ Vale ressaltar que let e const são funcionalidades adicionadas na ECMAScript 20
 
 Variáveis declaradas com const, como o próprio nome diz, possuem comportamento de constantes e devem ser inicializadas em sua declaração, pois, em casos de modo restrito, a exceção SyntaxError será lançada. Não confundam constantes com objetos imutáveis. Em artigos futuros abordaremos melhor a diferença entre ambos.
 
-# Hoisting
+### Hoisting
 
 Antes de entendermos os escopos e como as variáveis se comportam perante o seu contexto, é imprescindível a compreensão do comportamento de Hoisting.
 
@@ -34,10 +35,12 @@ Código "original" onde uma variável foi declarada e atribuído um valor qualqu
 {
     var organizacao = 'Opensanca | JavaScript Full Stack';
 }
- ```
+
 console.log(name);
 
-> // $ Opensanca | JavaScript Full Stack
+ // $ Opensanca | JavaScript Full Stack
+
+```
 
 Devido ao comportamento de Hoisting a declaração é elevada ao topo do arquivo e a atribuição do valor é mantida dentro do bloco resultando em:
 
@@ -74,7 +77,7 @@ Variáveis declaradas com var fora de funções compõe o escopo global e podem 
 
 > // $ Trilha Opensanca Developer | Full Stack JavaScript
 
-# Local (Função)
+### Local (Função)
 Variáveis declaradas com var dentro de funções ficam disponíveis localmente dentro do escopo da função. Exemplo:
 
 ```
@@ -90,7 +93,7 @@ console.log(name);
 // $ ReferenceError: name is not defined
 
 ```
-# Bloco
+### Bloco
 Variáveis declaradas com let e const possuem escopo de bloco, ou seja, são vigentes a partir do bloco em que foram declaradas. Exemplo:
 ```
 {
@@ -105,7 +108,7 @@ console.log(name);
 ```
 A compreensão plena dos escopos é extremamente importante para evitar comportamentos inesperados e manter nosso código consistente.
 
-# Convenções
+### Convenções
 Para a nomeação de variáveis existem algumas regras que devemos seguir. Há também algumas convenções que podemos adotar para compreendermos certos aspectos do nosso código só de olhar para o nome das variáveis. Dentre elas estão:
 
 Variáveis devem começar com ***letra, _ ou $***.
