@@ -29,8 +29,8 @@ Programadores iniciantes de JavaScript que saibam programar (lógica de programa
 
 ##### Módulo JavaScript Básico e Intermediário
 
-- [X] [Aula 1 - Introdução, Strict Mode, Variáveis, Hoisting e Tipos de dados](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/Aula%2001%20-%20Introdu%C3%A7%C3%A3o%2C%20Strict%20Mode%2C%20Vari%C3%A1veis%20e%20Hoisting.md);
-- [ ] Aula 2 - Operadores, Estruturas de controle;
+- [X] [Aula 1 - Introdução, Strict Mode, Variáveis, Hoisting e Tipos de dados](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-01/Aula%2001%20-%20Introdu%C3%A7%C3%A3o%2C%20Strict%20Mode%2C%20Vari%C3%A1veis%20e%20Hoisting.md);
+- [x] [Aula 2 - Operadores, Estruturas de controle](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/Aula%2002%20-%20Tipos%20de%20dados%20e%20Objetos.md);
 - [ ] Aula 3 - Funções e Closure;
 - [ ] Aula 4 - Callback e Prototype;
 - [ ] Aula 5 - Namespace, Race Condition e Promises;
