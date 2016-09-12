@@ -31,7 +31,9 @@ Aulas de Programação:
 - [Exemplo 06 - Funções com Object](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/exemplo-06-object-funcao.js)
 
 ## Exercícios de fixação:
-
+- [Exercício 01](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/exercicio-01.js)
+- [Exercício 02](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/exercicio-02.js)
+- [Exercício 03](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/exercicio-03.js)
 
 # Artigo de apoio:
 
