@@ -1,4 +1,35 @@
-# Introdução
+# Strict Mode, Variáveis e Hoisting
+
+Nesta aula abordamos os conceitos iniciais da linguagem junto de características de extrema importância.
+Abaixo, segue estão alguns links e materiais para apoio.
+
+## Artigos
+
+We Love Dev:
+- [Zero to Hero JavaScript - Variáveis](http://www.welovedev.com.br/post/zero-to-hero-javascript-variaveis)
+- [Zero to Hero JavaScript - Hoisting](http://www.welovedev.com.br/post/zero-to-hero-javascript-hoisting)
+- [Zero to Hero JavaScript - Strict mode](http://www.welovedev.com.br/post/zero-to-hero-javascript-strict-mode)
+ 
+Cristofer Sousa:
+- [Hello JavaScript aka ES6!](http://cristofersousa.github.io/javascript,/node/hello-javascript)
+
+## Video Aulas
+
+Rodrigo Branas:
+- [Desvendando a linguagem JavaScript - #1 - Introdução](https://www.youtube.com/watch?v=093dIOCNeIc&index=1&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Desvendando a linguagem JavaScript - #2 - Number](https://www.youtube.com/watch?v=-4Er-sZoxHM&index=2&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Desvendando a linguagem JavaScript - #3 - String](https://www.youtube.com/watch?v=c3vaqf9x1PQ&index=3&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Desvendando a linguagem JavaScript - #4 - Boolean](https://www.youtube.com/watch?v=oP2ProYre4k&index=4&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Desvendando a linguagem JavaScript - #5 - undefined e null](https://www.youtube.com/watch?v=dhaLnhvOyFc&index=5&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+
+Aulas de Programação:
+- [Dicas Javascript - Ep01: Hoisting](https://www.youtube.com/watch?v=JGpekHQ_9kY)
+- [ECMAScript 2015 (ES6) - Aula 03: Let e Const](https://www.youtube.com/watch?v=noJ2G56b7rs)
+- [ECMAScript 2015 (ES6) - Aula 04: Let e Const (Parte 2)](https://www.youtube.com/watch?v=ewbkvH3cGaw)
+
+# Artigo de apoio:
+
+### Introdução
 
 JavaScript é uma linguagem case sensitive e fracamente tipada, ou seja, não é necessário especificar explicitamente o tipo de uma variável em sua declaração. Entretanto, um ponto importante que deve ser frisado é que JavaScript possue tipos que são definidos e convertidos durante da execução dos scripts.
 
