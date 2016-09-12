@@ -1,7 +1,7 @@
 # Strict Mode, Variáveis e Hoisting
 
 Nesta aula abordamos os conceitos iniciais da linguagem junto de características de extrema importância.
-Abaixo, segue estão alguns links e materiais para apoio.
+Abaixo, segue alguns links e material para apoio.
 
 ## Artigos
 
