@@ -22,6 +22,17 @@ Rodrigo Branas:
 Aulas de Programação:
 - [Dicas Javascript - Ep03: Objetos e JSON](https://www.youtube.com/watch?v=Bndsk0N_LAk)
 
+## Exemplos dados na aula:
+- [Exemplo 01 - Boolean](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/exemplo-01-boolean.js)
+- [Exemplo 02 - Object](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/exemplo-02-object.js)
+- [Exemplo 03 - Object](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/exemplo-03-object.js)
+- [Exemplo 04 - Função](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/exemplo-04-funcao.js)
+- [Exemplo 05 - Object](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/exemplo-05-object.js)
+- [Exemplo 06 - Funções com Object](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-02/exemplo-06-object-funcao.js)
+
+## Exercícios de fixação:
+
+
 # Artigo de apoio:
 
 ## Tipos de dados em JavaScript
