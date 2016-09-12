@@ -1,4 +1,27 @@
-# Aula 02 - Tipos de dados e Objetos
+# Tipos de dados e Objetos
+
+Nesta aula abordamos os conceitos iniciais da linguagem junto de características de extrema importância.
+Abaixo, segue alguns links e material para apoio.
+
+## Artigos
+
+We Love Dev:
+- [Zero to Hero JavaScript - Tipos de Dados](http://www.welovedev.com.br/post/zero-to-hero-javascript-tipos-de-dados)
+ 
+## Video Aulas
+
+Rodrigo Branas:
+
+- [Desvendando a linguagem JavaScript - #2 - Number](https://www.youtube.com/watch?v=-4Er-sZoxHM&index=2&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Desvendando a linguagem JavaScript - #3 - String](https://www.youtube.com/watch?v=c3vaqf9x1PQ&index=3&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Desvendando a linguagem JavaScript - #4 - Boolean](https://www.youtube.com/watch?v=oP2ProYre4k&index=4&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Desvendando a linguagem JavaScript - #5 - undefined e null](https://www.youtube.com/watch?v=dhaLnhvOyFc&index=5&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+- [Desvendando a linguagem JavaScript - #6 - Object](https://www.youtube.com/watch?v=A_E-K69j93Q&index=6&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)
+
+Aulas de Programação:
+- [Dicas Javascript - Ep03: Objetos e JSON](https://www.youtube.com/watch?v=Bndsk0N_LAk)
+
+# Artigo de apoio:
 
 ## Tipos de dados em JavaScript
 
