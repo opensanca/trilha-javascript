@@ -1,7 +1,8 @@
 # Tipos de dados e Objetos
 
-Nesta aula abordamos os conceitos iniciais da linguagem junto de características de extrema importância.
-Abaixo, segue alguns links e material para apoio.
+Nesta aula abordamos os tipos primitivos de dados e algumas características dos objetos em JavaScript.
+
+Segue alguns links e material para apoio:
 
 ## Artigos
 
