@@ -7,8 +7,7 @@ Abaixo segue alguns links e material de apoio:
 ## Artigos
 
 We Love Dev:
-- [Zero to Hero JavaScript - Operadores]()
-- [Zero to Hero JavaScript - Funções]()
+- [Zero to Hero JavaScript - Funções](http://www.welovedev.com.br/post/zero-to-hero-javascript-funcoes)
 
 ## Video Aulas
 
