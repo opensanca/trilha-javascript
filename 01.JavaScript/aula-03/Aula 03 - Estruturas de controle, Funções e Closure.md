@@ -21,3 +21,16 @@ Aulas de Programação:
 - [ECMAScript 2015 (ES6) - Aula 09: Operador Spread/Rest](https://www.youtube.com/watch?v=8mTJPEcF3bw)
 - [ECMAScript 2015 (ES6) - Aula 10: Arrow Function (Parte 1)](https://www.youtube.com/watch?v=KrB6wFuK6Qg)
 - [ECMAScript 2015 (ES6) - Aula 11: Arrow Function (Parte 2)](https://www.youtube.com/watch?v=bJT1wz-72BU)
+
+## Exemplos dados na aula:
+- [Exemplo 01 - First Class Functions e Higher Order Functions](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-03/exemplo-01.js)
+- [Exemplo 02 - Call e Apply](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-03/exemplo-02.js)
+- [Exemplo 03 - Função Construtora](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-03/exemplo-03.js)
+- [Exemplo 04 - Closure](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-03/exemplo-04.js)
+
+## Exercícios de fixação:
+- [Exercício 01](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-03/exericio-01.js)
+- [Exercício 02](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-03/exericio-02.js)
+- [Exercício 03](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-03/exericio-03.js)
+- [Exercício 04](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-03/exericio-04.js)
+- [Exercício 05](https://github.com/opensanca/trilha-javascript/blob/master/01.JavaScript/aula-03/exericio-05.js)
