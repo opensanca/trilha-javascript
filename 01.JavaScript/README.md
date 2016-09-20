@@ -33,4 +33,4 @@ Programadores iniciantes de JavaScript que saibam programar (lógica de programa
 - [x] [Aula 2 - Tipos de dados e Objetos](./aula-02/README.md);
 - [x] [Aula 3 - Funções (First Class, Higher Order, Function Declaration, Function Expression, Call, Apply, Função Construtora e Closure)](./aula-03/README.md);
 - [x] [Aula 4 - Callback, LIFE, Estruturas de Controle e Operadores](./aula-04/README.md);
-- [ ] Aula 5 - Namespace, Race Condition e Promises;
+- [x] [Aula 5 - Prototype e Shadowing](./aula-05/README.md);
