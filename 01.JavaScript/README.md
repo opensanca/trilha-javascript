@@ -1,7 +1,7 @@
 ![](http://www.e-learningcenter.com/_ctrl/wp-content/uploads/JavaScript-Fundamentals.png)
 
 ### Ementa | Fundamentos JavaScript (Básico & Intermediário)
-> Monitor: Renan Johannsen |
+> Monitor: [Renan Johannsen de Paula](http://www.welovedev.com.br/author/renanjpaula) |
 > Carga Horária: 20h
 
 ### Objetivo:
