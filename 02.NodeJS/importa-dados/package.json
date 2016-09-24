@@ -1,0 +1,14 @@
+{
+  "name": "importa-dados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Opensanca",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.7.2"
+  }
+}
