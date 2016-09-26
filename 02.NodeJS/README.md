@@ -4,7 +4,7 @@
 > Monitor: [Renan Johannsen de Paula](http://www.welovedev.com.br/author/renanjpaula) |
 > Carga Horária: 20h
 
-- [ ] [Introdução, NPM e Modularização](./aula-01);
+- [x] [Introdução, NPM e Modularização](./aula-01);
 - [ ] Protocolo HTTP e Serviços Rest;
 - [ ] Express, Rotas e Organização do projeto;
 - [ ] Middlewares e Internacionalização;
