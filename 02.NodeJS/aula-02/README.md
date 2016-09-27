@@ -1,6 +1,7 @@
 # Introdução, NPM e Modularização;
 
 Nesta aula abordamos HTTP e REST.
+
 Abaixo, segue alguns links e material para apoio.
 
 ## Video Aulas
