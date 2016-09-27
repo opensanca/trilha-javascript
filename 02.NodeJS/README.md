@@ -5,7 +5,7 @@
 > Carga Horária: 20h
 
 - [x] [Introdução, NPM e Modularização](./aula-01);
-- [X] Protocolo HTTP e Serviços Rest(./aula-02);
+- [X] [Protocolo HTTP e Serviços Rest](./aula-02);
 - [ ] Express, Rotas e Organização do projeto;
 - [ ] Middlewares e Internacionalização;
 - [ ] Mongoose, Schemas;
