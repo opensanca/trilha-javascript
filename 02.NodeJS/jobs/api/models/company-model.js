@@ -1,5 +1,6 @@
 'use strict';
 const companies = [];
+
 class Company {
   constructor(name, segment, email, site, city, tecnologies) {
     this.name = name;
