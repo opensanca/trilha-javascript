@@ -1,19 +1,16 @@
 'use strict';
 
 require('./init-database');
-const http = require('http');
-const router = require('./router');
+const express = require('express');
+const bodyParser = require('body-parser');
+const app = express();
 
-// Config Server
-const server = http.createServer((req, res) => {
-  router.processRequest(req, res);
-});
+// Config Middlewares
+app.use(bodyParser.urlencoded({ extended: true }))
+app.use(bodyParser.json())
 
-// Config Controllers
-require('./controllers/company-controller');
-require('./controllers/user-controller');
+// Config Routes
+app.use(require('./routes/company-route'));
+app.use(require('./routes/user-route'));
 
-// Bind Server
-server.listen(3000, () => {
-  console.log('Escutando na porta 3000');
-});
+module.exports = app;

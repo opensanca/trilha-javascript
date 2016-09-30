@@ -4,11 +4,15 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prestart": "npm install",
+    "start": "nodemon ./bin/www"
   },
   "author": "Opensanca",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
     "node-xlsx": "^0.7.2"
   }
 }

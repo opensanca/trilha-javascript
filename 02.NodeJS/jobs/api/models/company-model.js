@@ -1,5 +1,5 @@
 'use strict';
-const companies = [];
+let companies = [];
 
 class Company {
   constructor(name, segment, email, site, city, tecnologies) {
@@ -10,8 +10,21 @@ class Company {
     this.city = city;
     this.tecnologies = tecnologies;
   }
+
   save() {
     companies.push(this);
+  }
+
+  update() {
+    companies[this.id] = this;
+  }
+
+  static remove(id) {
+    companies.splice(id, 1);
+  }
+
+  static getById(id) {
+    return companies[id];
   }
 
   static get(name) {
