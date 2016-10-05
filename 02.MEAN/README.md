@@ -2,8 +2,6 @@
 
 ### Ementa | Nodejs e MongoDB
 
-![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg)
-
 > Monitor: [Renan Johannsen de Paula](http://www.welovedev.com.br/author/renanjpaula) |
 > Carga Horária: 20h
 
