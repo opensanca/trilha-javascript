@@ -1,12 +1,15 @@
-# Módulo MongoDB
-
-- [ ] Introdução;
-- [ ] Banco de dados não relacionais;
-- [ ] Schemaless;
-- [ ] Orientação a documentos e Binary JSON;
-- [ ] Operações CRUD;
-
 # MongoDB
+
+Nesta aula abordamos as principais características do MongoDB.
+Abaixo, segue alguns links e material para apoio.
+
+## Video Aulas
+
+- [Introdução ao MongoDb em vídeo aulas](https://www.portalgsti.com.br/2016/09/introducao-ao-mongodb-em-video-aulas.html);
+- [Mongo University](https://university.mongodb.com/);
+- [Be MEAN: MongoDB](https://www.youtube.com/playlist?list=PL77JVjKTJT2gXHb9FEokJsPEcoOmyF1pY);
+
+## Artigos de Apoio
 
 Primeiramente vamos entender o são banco de dados não relacionais (famosos NoSql). Basicamente surgiram com o intuito de resolver problemas específicos que os bancos relacionais não conseguem resolver eficientemente devido a estratégia de orquestração dos dados.
 
@@ -28,7 +31,7 @@ MongoDB é um banco de dados schemaless orientado a arquivos projetado para faci
 
 A ilustração abaixo mostra a distribuição do mongo dentre os demais banco de dados.
 
-![Features vs Scale](./imagens/feature-vs-scale.png)
+![Features vs Scale](./feature-vs-scale.png)
 
 ## Documentos
 
@@ -106,4 +109,3 @@ Para fins didáticos utilizaremos como material do curso o próprio [manual do m
 A seguir encontra-se uma lista de materiais relacionados e indicados para o estudo:
 
 - [Manual](https://docs.mongodb.org/manual/);
-- [Mongo University](https://university.mongodb.com/);
