@@ -1,26 +1,22 @@
 'use strict';
-const users = [];
 
-class User {
-  constructor(name, password, profile) {
-    this.name = name;
-    this.password = password;
-    this.profile = profile;
+const mongoose = require('mongoose');
+const schema = new mongoose.Schema({
+  name: {
+    type: String,
+    required: true
+  },
+  password: {
+    type: String,
+    required: true
+  },
+  active: {
+    type: Boolean,
+    default: true
   }
-  save() {
-    users.push(this);
-  }
+});
+const User = mongoose.model('User', schema);
 
-  static get(name) {
-    if(name) {
-      return users.filter(
-        (user) => user.name.toLowerCase().startsWith(name)
-      );
-    }
-    return users;
-  }
-}
-
-new User('Renan', '123456', 'ADMIN').save();
-
-module.exports = User;
+module.exports.get = (query) => {
+  return User.find(query);
+};
