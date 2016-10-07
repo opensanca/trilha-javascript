@@ -1,6 +1,7 @@
-# MongoDB
+# MongoDB e Mongoose
 
 Nesta aula abordamos as principais características do MongoDB.
+
 Abaixo, segue alguns links e material para apoio.
 
 ## Video Aulas
