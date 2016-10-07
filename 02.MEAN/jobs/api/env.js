@@ -8,7 +8,7 @@ env.server = {
 
 env.database = {
   uri: process.env.DATABASE_URI || 'mongodb://localhost:27017/jobs-db',
-  credentials: {
+  options: {
     user: process.env.DATABASE_USER || '',
     pass: process.env.DATABASE_PASS || ''
   }

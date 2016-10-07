@@ -3,7 +3,8 @@
 const mongoose = require('mongoose');
 const env = require('./env')
 
-mongoose.connect(env.database.uri, env.database.credentials);
+mongoose.Promise = global.Promise;
+mongoose.connect(env.database.uri, env.database.options);
 
 const db = mongoose.connection;
 
