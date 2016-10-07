@@ -4,47 +4,53 @@ const Company = require('../models/company-model');
 const ctrl = {};
 
 ctrl.getCompanies = (req, res) => {
-  res.send(Company.get(req.query.name));
+    Company.get(req.query)
+        .then((data) => {
+            res.send(data);
+        })
+        .catch((err) => {
+            res.status(500).send(err);
+        });
 };
 
 ctrl.getCompany = (req, res) => {
-  res.send(Company.getById(req.params.id));
-};
+    Company.getById(req.params.id)
+        .then((data) => {
+            res.send(data);
+        })
+        .catch((err) => {
+            res.status(500).send(err);
+        });
+}
 
-ctrl.createCompany = (req, res) => {
-  new Company(
-    req.body.name,
-    req.body.segment,
-    req.body.email,
-    req.body.site,
-    req.body.city,
-    req.body.tecnologies
-  ).save();
-
-  // 201 == Created
-  res.status(201).send(req.body);
+ctrl.saveCompany = (req, res) => {
+    Company.save(req.body)
+        .then((data) => {
+            res.status(201).send(data);
+        })
+        .catch((err) => {
+            res.status(500).send(err);
+        });
 };
 
 ctrl.updateCompany = (req, res) => {
-  let company = new Company(
-    req.body.name,
-    req.body.segment,
-    req.body.email,
-    req.body.site,
-    req.body.city,
-    req.body.tecnologies
-  );
-
-  company.id = req.params.id;
-
-  company.update();
-
-  res.send(req.body);
+    Company.update(req.params.id, req.body)
+      .then((data) => {
+        res.status(200).send();
+      })
+      .catch((err) => {
+        res.staus(500).send(err);
+      });
 }
 
-ctrl.deleteCompany = (req, res) => {
-  Company.remove(req.params.id)
-  res.send();
-};
+ctrl.removeCompany = (req, res) => {
+    Company.remove(req.params.id)
+      .then((data) => {
+        res.status(200).send(data);
+      })
+      .catch((err) => {
+        res.staus(500).send(err);
+      });
+}
 
 module.exports = ctrl;
