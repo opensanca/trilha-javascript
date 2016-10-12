@@ -9,8 +9,8 @@
 - [X] [Protocolo HTTP e Serviços Rest](./aula-02);
 - [X] [Express, Rotas e Organização do projeto](./aula-03);
 - [X] [Mongoose, Schemas](./aula-04);
-- [ ] CRUD e Autenticação;
-- [ ] Middlewares, Segurança;
+- [x] [CRUD e Autenticação](./aula-05);
+- [x] [Middlewares, Segurança](./aula-06);
 
 ### Ementa | AngularJS 1.x
 
