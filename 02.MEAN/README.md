@@ -3,7 +3,7 @@
 ### Ementa | Nodejs e MongoDB
 
 > Monitor: [Renan Johannsen de Paula](http://www.welovedev.com.br/author/renanjpaula) |
-> Carga Horária: 20h
+> Carga Horária: 30h
 
 - [x] [Introdução, NPM e Modularização](./aula-01);
 - [X] [Protocolo HTTP e Serviços Rest](./aula-02);
@@ -13,12 +13,11 @@
 - [x] [Middlewares, Segurança](./aula-06);
 
 ### Ementa | AngularJS 1.x
+> Monitor: [Renan Johannsen de Paula](http://www.welovedev.com.br/author/renanjpaula) |
+> Carga Horária: 15h
 
-- [ ] Introdução;
+- [ ] [Introdução, Two Way Databind, Visão declarativa, Utilização de diretivas e Controllers](./aula-07);
 - [ ] Single page applications;
-- [ ] Two Way Databind;
-- [ ] Visão declarativa;
-- [ ] Utilização de diretivas;
 - [ ] Controllers;
 - [ ] Service/Factory;
 - [ ] HTTP;
