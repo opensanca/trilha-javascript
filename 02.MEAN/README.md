@@ -16,7 +16,7 @@
 > Monitor: [Renan Johannsen de Paula](http://www.welovedev.com.br/author/renanjpaula) |
 > Carga Horária: 15h
 
-- [ ] [Introdução, Two Way Databind, Visão declarativa, Utilização de diretivas e Controllers](./aula-07);
+- [X] [Introdução, Two Way Databind, Visão declarativa, Utilização de diretivas e Controllers](./aula-07);
 - [ ] Single page applications;
 - [ ] Controllers;
 - [ ] Service/Factory;
