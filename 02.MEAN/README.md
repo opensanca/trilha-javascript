@@ -17,7 +17,7 @@
 > Carga Horária: 15h
 
 - [X] [Introdução, Two Way Databind, Visão declarativa, Utilização de diretivas, Controllers, Organização de aplicações, módulos e John Papa Patterns](./aula-07);
-- [X] [Services, Constant, $http](./aula-08);
+- [X] [Services, Constant e $http](./aula-08);
 - [ ] Single page applications;
 - [ ] Factory;
 - [ ] Interceptors;
