@@ -9,7 +9,7 @@ router.get('/companies', ctrl.getCompanies);
 // Retrive
 router.get('/company/:id', ctrl.getCompany);
 // Create
-router.post('/company', ctrl.createCompany);
+router.post('/company', ctrl.saveCompany);
 // Update
 router.put('/company/:id', ctrl.updateCompany);
 // Delete
