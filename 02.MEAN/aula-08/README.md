@@ -1,4 +1,4 @@
-# Introdução, Two Way Databind, Visão declarativa, Utilização de diretivas, Controllers, Organização de aplicações, módulos e John Papa Patterns;
+# Services, Constant e $http;
 
 Abaixo, segue alguns links para apoio.
 
