@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html data-ng-app="login" data-ng-cloak>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <form data-ng-controller="LoginController as vm" data-ng-submit="vm.authenticate(vm.user)">
+      <label for="name">Name</label>
+      <input type="text" id="name" required data-ng-model="vm.user.name">
+
+      <br><br>
+
+      <label for="password">Password</label>
+      <input type="password" id="password" required data-ng-model="vm.user.password">
+
+      <br>
+        <p data-ng-if="vm.invalidUser">Usuário ou senha inváldos!</p>
+      <br>
+
+      <button type="submit">Login</button>
+    </form>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+    <script src="js/config-app.js"></script>
+    <script src="js/config/api-config.js"></script>
+
+    <script src="js/login-app.js"></script>
+    <script src="js/services/login-service.js"></script>
+    <script src="js/controllers/login-controller.js"></script>
+  </body>
+</html>

@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 app.use(i18nMiddleware);
-// app.use(authMiddleware);
+app.use(authMiddleware);
 
 // Config Routes
 app.use(require('./routes/user-route'));

@@ -23,6 +23,10 @@ ctrl.getUser = (req, res) => {
     });
 };
 
+ctrl.getProfile = (req, res) => {
+  res.status(200).send(req.user);
+};
+
 ctrl.saveUser = (req, res) => {
   User.save(req.body)
     .then((data) => {

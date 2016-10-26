@@ -18,7 +18,8 @@ const schema = new mongoose.Schema({
 const User = mongoose.model('User', schema);
 
 module.exports.authorization = (credentials) => {
-  return User.findOne(credentials);
+  let _fields = { password: false };
+  return User.findOne(credentials, _fields);
 }
 
 module.exports.get = (query) => {
