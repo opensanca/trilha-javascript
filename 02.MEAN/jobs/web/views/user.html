@@ -1,0 +1,19 @@
+<form layout="column" layout-padding>
+  <div layout="row" layout-xs="column">
+    <md-input-container flex>
+      <label for="name">Name</label>
+      <input type="text" id="name" data-ng-model="vm.user.name" required>
+    </md-input-container>
+
+    <md-input-container flex>
+      <label for="password">Password</label>
+      <input type="password" id="password" data-ng-model="vm.user.password" required>
+    </md-input-container>
+  </div>
+
+  <div layout="row" layout-align="end center">
+    <md-button type="button" class="md-raised" hide-xs>Back</md-button>
+    <md-button type="button" class="md-raised md-warn">Delete</md-button>
+    <md-button type="submit" class="md-primary md-raised">Save</md-button>
+  </div>
+</form>
