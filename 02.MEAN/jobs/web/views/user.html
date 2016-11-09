@@ -1,4 +1,6 @@
-<form layout="column" layout-padding>
+<h3>{{ vm.user._id ? 'Edit' : 'New' }} User</h3>
+
+<form layout="column" layout-padding data-ng-init="vm.initForm()" data-ng-submit="vm.save(vm.user)">
   <div layout="row" layout-xs="column">
     <md-input-container flex>
       <label for="name">Name</label>
@@ -12,8 +14,7 @@
   </div>
 
   <div layout="row" layout-align="end center">
-    <md-button type="button" class="md-raised" hide-xs>Back</md-button>
-    <md-button type="button" class="md-raised md-warn">Delete</md-button>
+    <md-button type="button" class="md-raised md-warn" data-ng-show="vm.user._id" data-ng-click="vm.remove(vm.user)">Delete</md-button>
     <md-button type="submit" class="md-primary md-raised">Save</md-button>
   </div>
 </form>

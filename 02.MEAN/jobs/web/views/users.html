@@ -1,0 +1,23 @@
+<div layout="column" layout-padding>
+
+  <form layout="column" flex>
+    <div layout="row">
+      <md-input-container flex>
+        <label for="name">Name</label>
+        <input type="text" id="name" data-ng-model="vm.filter.name">
+      </md-input-container>
+    </div>
+  </form>
+
+  <md-list data-ng-init="vm.initList()" flex>
+    <md-list-item data-ng-repeat="user in vm.users" data-ng-click="vm.edit(user)">
+      <p>{{user.name}}</p>
+    </md-list-item>
+  </md-list>
+
+  <div layout="row">
+    <md-button class="md-acenty md-fab md-fab-bottom-right" aria-label="Add" data-ng-click="vm.new()">
+      <md-icon md-svg-src="navigation:menu"></md-icon>
+    </md-button>
+  </div>
+</div>

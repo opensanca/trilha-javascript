@@ -3,44 +3,39 @@
 
   angular.module('jobs').controller('UserController', controller);
 
-  controller.$inject = ['UserService'];
+  controller.$inject = ['UserService', '$routeParams'];
 
-  function controller(UserService) {
+  function controller(UserService, $routeParams) {
     const vm = this;
 
-    vm.initUsers = () => {
-      UserService.getUsers()
-        .then((res) => {
-          vm.users = res.data;
-        })
-        .catch((err) => {
-          console.log(err);
-        });
+    vm.initForm = () => {
+      let _id = $routeParams.id;
+
+      if(_id) {
+        UserService
+          .getUser(_id)
+          .then((res) => {
+            vm.user = res.data;
+          })
+      }
     };
 
     vm.save = (user) => {
-      UserService.saveUser(user)
+      UserService
+        .saveUser(user)
         .then((res) => {
-          vm.user = {};
-          vm.initUsers();
+          if(!user._id) {
+            user._id = res.data._id;
+          }
         })
-        .catch((err) => {
-          console.log(err);
-        });
     };
 
-    vm.deleteSelected = (users) => {
-      let _usersToRemove = users.filter((user) => {
-        return user.selected
-      });
-
-      UserService.removeAll(_usersToRemove)
+    vm.remove = (user) => {
+      UserService
+        .remove(user._id)
         .then((res) => {
-          vm.initUsers();
+          vm.user = {};
         })
-        .catch((err) => {
-          console.log(err);
-        });
     };
   }
 
