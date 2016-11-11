@@ -28,8 +28,7 @@
             user._id = res.data._id;
           }
 
-          let message = user._id ? 'Registro alterado com sucesso' : 'Registro incluido com sucesso';
-          messageService.success(message);
+          messageService.success(messageService.messages.succesInserted);
         })
         .catch((err) => {
           messageService.error('Erro inesperado');
