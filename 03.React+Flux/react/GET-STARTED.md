@@ -1,6 +1,4 @@
-##Getting Started
-
-----------
+#Getting Started
 
 ###Instalação
 
