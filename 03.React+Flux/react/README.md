@@ -1,6 +1,5 @@
 #React
 
-----------
 ##Apresentação
 
 Rápida introdução aos fundamentos do React ([link](https://docs.google.com/presentation/d/1LIq_z2OTSzRI5oI1Gr3-lSw9j0PmFeDQWlZ_bGYtXAE/edit?usp=sharing)).
