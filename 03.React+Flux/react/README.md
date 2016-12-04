@@ -16,7 +16,7 @@ Rápida introdução aos fundamentos do React ([link](https://docs.google.com/pr
 
 ##Mãos à obra
 
-![sanca-jobs-mockup](https://drive.google.com/file/d/0B24Ma5IVquUWWUtyWkZpMVhSWU0/view?usp=sharing)
+![sanca-jobs-mockup](./sanca-jobs-mockup.png)
 
 Vamos construir um app simples para listar vagas de emprego. Durante o exercício abordaremos:
 
