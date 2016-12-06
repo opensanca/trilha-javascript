@@ -22,14 +22,18 @@ Vamos construir um app simples para listar vagas de emprego. Durante o exercíci
 
  1. Prop validations
  2. DOM Refs
- 2. Component Lifecycle
- 3. Higher Order Component
+ 3. Handling Events
+ 4. Component Lifecycle
+ 5. Higher Order Component
+ 6. React DevTool
 
 ##O que não veremos?
 
- 1. Server rendering
+ 1. Unit test
  2. Webpack
- 2. Unit test
+ 3. Server rendering
+ 4. Router
+ 5. React Native
 
 ##Speaker
 
