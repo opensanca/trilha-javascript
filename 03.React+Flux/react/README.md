@@ -20,6 +20,8 @@ Rápida introdução aos fundamentos do React ([link](https://docs.google.com/pr
 
 Vamos construir um app simples para listar vagas de emprego. Durante o exercício abordaremos:
 
+[###Getting started](./GET-STARTED.md)
+
  1. Prop validations
  2. DOM Refs
  3. Handling Events
