@@ -50,14 +50,19 @@ const jobToString = job =>
 class App extends Component {
 
   state = {
-    search: '',
+    search: {
+      text: '',
+      isFullTime: false,
+    },
   };
 
-  handleChange = value => {
-    this.setState({ search: value });
+  handleChange = search => {
+    this.setState({ search });
   }
 
   render() {
+    const text = this.state.search.text;
+    console.log(this.state.search.isFullTime);
     return (
       <div className="App">
         <SearchBar
@@ -67,7 +72,7 @@ class App extends Component {
         <JobList
           jobs={jobs.filter(job =>
             jobToString(job)
-              .includes(this.state.search.toLowerCase()))}
+              .includes(text.toLowerCase()))}
         />
       </div>
     );
