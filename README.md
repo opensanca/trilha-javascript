@@ -55,7 +55,7 @@ Recomendamos que adote um editor de texto,para facilitar a escrita de seu códig
 ### Referencia bibliográfica/video-aula:
 - [Exploring ES6 - Upgrade to the next version of JavaScript - ebook](http://exploringjs.com/es6/)
 - [JavaScript Furtivo - Eric Douglas | ebook](https://leanpub.com/javascriptfurtivo)
-- [Eloquent JavaScript - Marijin Haverbeke | ebook] (http://braziljs.github.io/eloquente-javascript/)
+- [Eloquent JavaScript - Marijin Haverbeke | ebook](http://braziljs.github.io/eloquente-javascript/)
 - [Learning JavaScript Design Patterns - Addy Osmani |ebook](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [Série You Don't Know JavaScript - Kyle Simpson | ebook](https://github.com/getify/You-Dont-Know-JS)
 - [Programming JavaScript Applications - Eric Elliot | ebook](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
@@ -67,4 +67,4 @@ Recomendamos que adote um editor de texto,para facilitar a escrita de seu códig
 
 ### License:
 
-[MIT | Creative Commons Attribution-NonCommercial-ShareAlike 4.0] (https://github.com/opensanca/trilha-javascript/blob/master/LICENSE.md) [Opensanca 2016
+[MIT | Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://github.com/opensanca/trilha-javascript/blob/master/LICENSE.md) [Opensanca 2016
